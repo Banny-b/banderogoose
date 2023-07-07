@@ -1,2 +1,2 @@
 # banderogoose
-BanderoGoose, мой первый одностраничный сайт после марафона GoIT (12.08.22).
+Bandero Goose, my first one-page website after completing the GoIT marathon.

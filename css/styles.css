@@ -13,14 +13,14 @@ body {
 
 .main-page {
     background: linear-gradient(270.4deg, #A5DEFF 0.35%, rgba(252, 254, 255, 0) 99.67%);
-    height: 100%;
     display: flex;
     flex-direction: column;
 }
 
 header {
-    margin-top: 34px;
+    margin-top: 28px;
     margin-bottom: 58px;
+    padding-left: 60px;
     display: flex;
     position: absolute;
     top: 0;
@@ -135,6 +135,7 @@ header {
     font-size: 24px;
     line-height: 24px;
     margin: 12px 0 32px 0;
+    text-align: center;
 }
 
 .gus-facts-descr {
@@ -143,13 +144,14 @@ header {
     font-size: 16px;
     line-height: 24px;
     width: 280px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .victory-bgd {
-    width: 1170;
+    width: 100%;
     background: linear-gradient(270.4deg, #D3EFFF 0.35%, #FFFFFF 99.67%);
     padding: 72px 0;
-    margin-bottom: 72px;
     display: flex;
     flex-direction: column;
     align-items: center;
